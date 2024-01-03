@@ -1,25 +1,20 @@
-## Aurore Desmis, Assistant de direction
+## Aurore Desmis, Développeuse Java fullstack junior
 
 ## À propos de moi
-Je suis très dévoué(e) et excellent(e) pour organiser les choses.
+Développeuse Java fullstack junior avec une expérience de gestion de projet et de management. J’aimerais contribuer à la réalisation de vos sites et applications à l’aide de mes connaissances en Frontend (Javascript) et Backend (Java). 
+Je suis curieuse et prête à relever de nouveaux défis.
 
 ## Expérience
 
-- Optimisation des Processus de Bureau (2021-Présent)
-- Soutien Exécutif (2019-2021)
-- Optimisation des Processus Administratifs (2018-2019)
-- Gestion d'Événements d'Entreprise (2015-2018)
+- 
 
 ## Compétences
 
-- Gestion du Temps
-- Communication
-- Gestion de l'Espace de travail
-- Résolution de problèmes
-- Analyse de Données Administratives
-- Gestion de la logistique
-- Planifiation stratégique
+- Rigueur
+- Perséverance
+- Adaptabilité
 
 ## Liste des projets
-- Instagram
-- Facebook
+- Développement d'un site de e-commerce avec HTML, CSS et Javascript
+- Développement d'un site de location de voitures avec PHP et Bootstrap
+- Développement d'une application de chat en ligne avec Spring Boot / Angular
